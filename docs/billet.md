@@ -17,7 +17,7 @@
 
 
 ## Support
- - Lien vers le support (diapos) présenté en conférence : [](https://fr.slideshare.net/quentinadam/hype-driven-architecture-keynote-at-devfest-toulouse-2018?fbclid=IwAR0mWjk3zfEdsbQzcuBkBhhqHKQ6Y75oMn_m3tTdEQOUbUOh81I5dR9eKV0)
+ - Lien vers le support (diapos) présenté en conférence : https://fr.slideshare.net/quentinadam/hype-driven-architecture-keynote-at-devfest-toulouse-2018?fbclid=IwAR0mWjk3zfEdsbQzcuBkBhhqHKQ6Y75oMn_m3tTdEQOUbUOh81I5dR9eKV0
  - Nombre de diapos du support : 61
  - Plan du support : NA
 
